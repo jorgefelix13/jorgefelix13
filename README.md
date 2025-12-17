@@ -22,4 +22,4 @@ Me apasiona la infraestructura tecnológica, el backend y la administración de 
 ---
 
 ### 📫 Contáctame
-* [felixrasconjorgeantonio8@gmail.com]
+* felixrasconjorgeantonio8@gmail.com
